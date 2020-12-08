@@ -1,0 +1,9 @@
+[submodule "cka-ckad-exam-simulator"]
+	path = cka-ckad-exam-simulator
+	url = git@github.com:nsvijay04b1/cka-ckad-exam-simulator.git
+[submodule "CKA"]
+	path = CKA
+	url = git@github.com:Bes0n/CKA.git
+[submodule "cka-example-environments"]
+	path = cka-example-environments
+	url = git@github.com:wuestkamp/cka-example-environments.git
